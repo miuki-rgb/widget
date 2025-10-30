@@ -7,5 +7,5 @@
 
 ## Hasil Tampilan
 
-![Tampilan Aplikasi](Hasil_tugas_2.PNG)
+![Tampilan Aplikasi](Hasil_tugas_2.png)
 
