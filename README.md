@@ -1,6 +1,6 @@
-# flutter_application_1
+# widget
 
-**Nama:** Ardi Yoga Pangestu  
+**Nama:** Luki Solihin 23552011413  
 **Mata Kuliah:** Pemrograman Mobile 2  
 **Dosen Pengampu:** Muhammad Ikhwan Fathulloh, S.Kom.  
 **Semester:** 5 (Lima)
